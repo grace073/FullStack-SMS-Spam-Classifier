@@ -9,7 +9,7 @@ This repository contains a comprehensive SMS Spam Classifier web application. Th
 - Machine Learning: scikit-learn, NLTK
 
 ## Frontend
-The frontend of the application is built with HTML, CSS, and JavaScript. It provides a user-friendly interface where users can input their SMS messages and receive immediate classification results. The design is responsive and intuitive, making it easy for users to interact with the application. The frontend communicates with the backend Flask server through HTTP requests, providing a seamless user experience.
+The frontend of the application is built with HTML, CSS, and JavaScript. It provides a user-friendly interface where users can input their SMS messages and receive immediate classification results. The design is responsive and intuitive, making it easy for users to interact with the application. The frontend communicates with the backend Flask server through **HTTP requests**, providing a seamless user experience.
 
 ## Dataset
 The machine learning model is trained on a dataset of SMS messages. You can download the dataset from [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/download?datasetVersionNumber=1).
