@@ -1,7 +1,7 @@
 ## FullStack-SMS-Spam-Classifier
 
 ## Introduction
-This repository contains a comprehensive SMS Spam Classifier web application. The backend is developed with Flask, while the frontend utilizes HTML, CSS, and JavaScript. The application leverages a machine learning model, trained on a dataset of SMS messages, to determine whether incoming messages are 'spam' or 'not spam'. Users can enjoy an intuitive interface to input their messages and receive immediate classification results.
+This repository contains a comprehensive SMS Spam Classifier web application. The backend is developed with Flask, while the frontend utilizes HTML, CSS, and JavaScript. The application leverages a machine learning model based on Naive-Bayes-Classification-Algorithm, trained on a dataset of SMS messages, to determine whether incoming messages are 'spam' or 'not spam'. Users can enjoy an intuitive interface to input their messages and receive immediate classification results.
 
 ## Technologies used
 - Backend: Python, Flask
